@@ -1,10 +1,1 @@
-# cryptanalysisofcaesarcipher
-# cryptanalysisofcaesarcipher
-# cryptanalysisofcaesarcipher
-# automated_attendance_using_opencv
-# connectedtransit
-# connectedtransit
-# karthiknathan.github.io
-# karthiknathan06.github.io
-# karthiknathan06.github.io
-# crud_application
+
